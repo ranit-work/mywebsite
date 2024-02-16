@@ -1,0 +1,20 @@
+nav ul{
+    display: flex;
+}
+
+
+nav ul li{
+    /* height: 25px;
+    width: 40px; */
+    padding: 23px;
+    background-color: aqua;
+    list-style: none;
+
+}
+nav ul li:hover{
+    background-color: rgb(0, 255, 136);
+    transition: 1s;
+    font-size: 25px;
+
+
+}
